@@ -1,0 +1,57 @@
+$theme-colors: (
+    "primary": #FF69B4
+);
+
+$body-bg: #FFF;
+$body-color: #707376;
+$font-family-sans-serif: 'Lato', sans-serif;
+
+
+@import "node_modules/bootstrap/scss/bootstrap";
+
+
+.bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+
+html,
+body {
+  overflow-x: hidden; /* Prevent scroll on narrow devices */
+}
+
+body {
+  padding-top: 56px;
+}
+
+.logo { width: 150px }
+
+.tel { padding: 10px 20px; border: 1px solid #F47945; background-color: #FEF1EC; color: #F47945; font-weight: 900; font-size: 27px; border-radius: 25px; }
+ul { margin: 0; padding: 0; list-style: none; margin-bottom: 1.5rem;  }
+.box { background-color: #F7F8F9; border: 1px solid #AFC1CC; border-radius: 25px; padding: 25px; 
+	h2, h3 { font-size: 16px; font-weight: 900; font-style: italic; }
+}
+
+.sidebar_text {
+	h3 {  }
+		h3 {  }
+	.number { background-color: #DEEDE0; border-radius: 4px; border: 1px solid #B8DBBA; display: block; padding: 10px 20px; text-align: center; font-size: 29px; }
+
+}
+
+
+
+.lh-100 { line-height: 1; }
+.lh-125 { line-height: 1.25; }
+.lh-150 { line-height: 1.5; }
+
