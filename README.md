@@ -9,7 +9,7 @@
 
 ## The Vision
 
-The vision with PlockMates is to provide a service that enables businesses that are geographically clustered too offer their customers curbside pick up. 
+The vision with PlockMates is to provide a service that enables businesses that are geographically clustered to offer their customers curbside pick up. 
 
 ## Goals
 
